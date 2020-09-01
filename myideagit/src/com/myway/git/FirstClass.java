@@ -8,6 +8,8 @@ public class FirstClass {
     System.out.println("hello music.");
     System.out.println("hello friend.");
     test();
+    test();
+
   }
 
   //test
